@@ -44,6 +44,13 @@
       "isBanned": false,
       "banReason": "",
       "userRank": "Supreme User"
+    },
+    "DPMods-NRTL56": {
+      "hwid": "RESET",
+      "expireDate": "2026-10-23",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
